@@ -1,2 +1,4 @@
-# romanian-nlp-datasets
-A list of Romanian NLP Datasets
+# a list of Romanian NL Datasets
+A curated list of open source and open access Romanian Language NLP Datasets
+
+## Unlabeled text Corpora
