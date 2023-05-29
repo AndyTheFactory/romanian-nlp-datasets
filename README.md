@@ -19,6 +19,7 @@ For the moment we don't add parallel copora to the list.
 
 * [LegalNERo](https://huggingface.co/datasets/joelito/legalnero)
 * [RONEC](https://huggingface.co/datasets/ronec)
+* [WikiAnn](https://huggingface.co/datasets/wikiann)
 
 ## Sentiment Analysis
 
