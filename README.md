@@ -63,10 +63,12 @@ For additions or any other changes please submit a pull request.
 * [Curlicat Romanian Corpus](https://elrc-share.eu/repository/browse/curlicat-romanian-corpus/8b6c8dca58ea11ed9c1a00155d026706fb03ef8b4c1847cfbe9cea869a82731e/)
 * [HamleDT](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-1508)
 * [RoWordNet](https://github.com/dumitrescustefan/RoWordNet)
+* [RoRefTrees](https://github.com/UniversalDependencies/UD_Romanian-RRT)
 
-## Diacritics Restoration
+## Diacritics Restoration / Grammar Correction
 
 * [Corpus for training and evaluating diacritics restoration systems](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2607)
+* [RONACC](https://nextcloud.readerbench.com/index.php/s/9pwymesT5sycxoM)
 
 ## Fake News
 
