@@ -75,7 +75,9 @@ For additions or any other changes please submit a pull request.
 
 ## Offensive Language
 
+* [RO-Offense](https://huggingface.co/datasets/readerbench/ro-offense)
+* [News RO-Offense](https://huggingface.co/datasets/readerbench/news-ro-offense)
+* [FB RO-Offense](https://huggingface.co/datasets/readerbench/ro-fb-offense)
 * [Hate Speech RO](https://github.com/andra-pumnea/hate-speech-ro)
 * [ROFF](https://github.com/guzimanis/ROFF)
-* 
 
