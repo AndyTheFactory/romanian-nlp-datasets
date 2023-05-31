@@ -10,6 +10,7 @@ For additions or any other changes please submit a pull request.
 * [CC-100](https://data.statmt.org/cc-100/)
 * [Wikipedia Corpus](https://dumps.wikimedia.org/rowiki/)
 * [RoTex Collection](https://github.com/aleris/ReadME-RoTex-Corpus-Builder)
+* [Romanian Language Repository](https://github.com/lmidriganciochina/romaniancorpus)
 * [MARCELL Legislative Corpus](https://elrc-share.eu/repository/browse/marcell-romanian-legislative-subcorpus-v2/2da548428b9d11eb9c1a00155d026706ce94a6b59ffc4b0e9fb5cd9cebe6889e/)
 * [COVID-19 Tweets](https://github.com/UBC-NLP/megacov)
 * [Minutes of the Sittings of the Chamber of Deputies of Romania](https://elrc-share.eu/repository/browse/monolingual-corpus-from-minutes-of-the-sittings-of-the-chamber-of-deputies-of-romania-2016-2018-processed/759806e22e1311e9a4d400155d02670657928f90efa64c9dab1b177c2186bf6c/)
@@ -22,6 +23,7 @@ For additions or any other changes please submit a pull request.
 * [New Criminal Code](https://elrc-share.eu/repository/browse/noul-cod-penal/100b7e38d25111ea913100155d0267066e48d760d0d24b39a4900b2b09864a02/)
 * [Romanian News Articles Dataset](https://github.com/mhakan20/RomanianNewsArticlesDataset)
 * [Old Newspapers](https://www.kaggle.com/datasets/alvations/old-newspapers)
+* [ELTeC-Rom](https://github.com/COST-ELTeC/ELTeC-rom)
 
 
 ## Semantic Textual Similarity / Paraphrasing
@@ -70,10 +72,11 @@ For additions or any other changes please submit a pull request.
 * [Corpus for training and evaluating diacritics restoration systems](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2607)
 * [RONACC](https://nextcloud.readerbench.com/index.php/s/9pwymesT5sycxoM)
 
-## Fake News
+## Fake News / Clickbait / Satirical News
 
 * [Fakerom](https://www.tagtog.com/fakerom/fakerom)
 * [Clickbait dataset on Romanian SciTech News](https://github.com/ralucaginga/ClickbaitSciTechRO)
+* [SaRoCo](https://github.com/MihaelaGaman/SaRoCo)
 
 ## Offensive Language
 
