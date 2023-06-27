@@ -83,6 +83,7 @@ For additions or any other changes please submit a pull request.
 * [RO-Offense](https://huggingface.co/datasets/readerbench/ro-offense)
 * [News RO-Offense](https://huggingface.co/datasets/readerbench/news-ro-offense)
 * [FB RO-Offense](https://huggingface.co/datasets/readerbench/ro-fb-offense)
+* [RO-Offense-Sequences](https://huggingface.co/datasets/readerbench/ro-offense-sequences)
 * [Hate Speech RO](https://github.com/andra-pumnea/hate-speech-ro)
 * [ROFF](https://github.com/guzimanis/ROFF)
 * [CoRoSeOf](https://github.com/DianaHoefels/CoRoSeOf)
