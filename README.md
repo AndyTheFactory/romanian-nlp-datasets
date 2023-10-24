@@ -24,6 +24,7 @@ For additions or any other changes please submit a pull request.
 * [Romanian News Articles Dataset](https://github.com/mhakan20/RomanianNewsArticlesDataset)
 * [Old Newspapers](https://www.kaggle.com/datasets/alvations/old-newspapers)
 * [ELTeC-Rom](https://github.com/COST-ELTeC/ELTeC-rom)
+* [RO Business Emails](https://huggingface.co/datasets/readerbench/ro-business-emails)
 
 
 ## Semantic Textual Similarity / Paraphrasing
@@ -36,6 +37,13 @@ For additions or any other changes please submit a pull request.
 
 * [RO-NLI](https://github.com/dumitrescustefan/RO-NLI)
 
+## Summarization
+* [RO Text Summarization](https://huggingface.co/datasets/readerbench/ro-text-summarization)
+
+## Dialect and regional speech identification
+* [RoDia](https://github.com/codrut2/RoDia)
+* [MOROCO](https://github.com/butnaruandrei/MOROCO)
+    
 ## Named Entity Recognition (NER)
 
 * [LegalNERo](https://huggingface.co/datasets/joelito/legalnero)
