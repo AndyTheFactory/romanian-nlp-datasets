@@ -32,6 +32,7 @@ For additions or any other changes please submit a pull request.
 * [RO-STS](https://huggingface.co/datasets/ro_sts)
 * [Romanian paraphrase dataset](https://huggingface.co/datasets/BlackKakapo/paraphrase-ro)
 * [TaPaCo](https://zenodo.org/record/3707949)
+* [Romanian Bible Paraphrase Corpus](https://huggingface.co/datasets/andyP/ro-paraphrase-bible)
 
 ## Natural Language Inference
 
