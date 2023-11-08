@@ -7,7 +7,21 @@ For additions or any other changes please submit a pull request.
 ## Unlabeled text Corpora
 
 * [Oscar Common Crawl dataset](https://huggingface.co/datasets/oscar-corpus/OSCAR-2201)
+>     Part of a large multilanguage corpus originated from Common Crawl.
+>     It's a raw, unannotated corpus. It has roughly 50 GB of Romanian text
+>     in 4.5 million documnets. For details check its homepage 
+>     and the paper
+ 
+[![arXiv](https://img.shields.io/badge/arXiv-2004.06165-f9f107.svg)](https://arxiv.org/abs/2004.06165)
+[![GitHub issues by-label](https://img.shields.io/badge/oscar%20homepage-6ca1f0)](https://oscar-project.org/)
+
 * [CC-100](https://data.statmt.org/cc-100/)
+>      Similar to Oscar, part of a multilanguage corpus also based on Common Crawl
+>      from 2018. Romanian text is 16GB large
+
+[![arXiv](https://img.shields.io/badge/arXiv-1911.00359-f9f107.svg)](https://arxiv.org/abs/1911.00359)
+[![GitHub issues by-label](https://img.shields.io/badge/oscar%20homepage-6ca1f0)](https://data.statmt.org/cc-100/)
+
 * [Wikipedia Corpus](https://dumps.wikimedia.org/rowiki/)
 * [RoTex Collection](https://github.com/aleris/ReadME-RoTex-Corpus-Builder)
 * [Romanian Language Repository](https://github.com/lmidriganciochina/romaniancorpus)
