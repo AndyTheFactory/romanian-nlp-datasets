@@ -23,7 +23,12 @@ For additions or any other changes please submit a pull request.
 [![GitHub issues by-label](https://img.shields.io/badge/oscar%20homepage-6ca1f0)](https://data.statmt.org/cc-100/)
 
 * [Wikipedia Corpus](https://dumps.wikimedia.org/rowiki/)
+>       Romanian language wikipedia dump. 
+  
 * [RoTex Collection](https://github.com/aleris/ReadME-RoTex-Corpus-Builder)
+>       A collection of varoius unannotated corpora collected around 2018-2019.
+>       Includes books, scraped newspapers and juridical documents  
+> 
 * [Romanian Language Repository](https://github.com/lmidriganciochina/romaniancorpus)
 * [MARCELL Legislative Corpus](https://elrc-share.eu/repository/browse/marcell-romanian-legislative-subcorpus-v2/2da548428b9d11eb9c1a00155d026706ce94a6b59ffc4b0e9fb5cd9cebe6889e/)
 * [COVID-19 Tweets](https://github.com/UBC-NLP/megacov)
