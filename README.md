@@ -20,7 +20,7 @@ For additions or any other changes please submit a pull request.
 >      from 2018. Romanian text is 16GB large
 
 [![arXiv](https://img.shields.io/badge/arXiv-1911.00359-f9f107.svg)](https://arxiv.org/abs/1911.00359)
-[![GitHub issues by-label](https://img.shields.io/badge/cc-100%20homepage-6ca1f0)](https://data.statmt.org/cc-100/)
+[![Homepage](https://img.shields.io/badge/cc-100%20homepage-6ca1f0)](https://data.statmt.org/cc-100/)
 
 * [Wikipedia Corpus](https://dumps.wikimedia.org/rowiki/)
 >       Romanian language wikipedia dump. 
@@ -30,7 +30,19 @@ For additions or any other changes please submit a pull request.
 >       Includes books, scraped newspapers and juridical documents  
 > 
 * [Romanian Language Repository](https://github.com/lmidriganciochina/romaniancorpus)
+>       A collection of written and spoken text from various
+>       sources: Articles, Fairy tales, Fiction, History, Theatre, News
+ 
 * [MARCELL Legislative Corpus](https://elrc-share.eu/repository/browse/marcell-romanian-legislative-subcorpus-v2/2da548428b9d11eb9c1a00155d026706ce94a6b59ffc4b0e9fb5cd9cebe6889e/)
+>      Romanian national legilation from  1881 to 2021. The corpus
+>      includes mainly: governmental decisions, ministerial orders,
+>      decisions, decrees and laws.
+>      Automatically annotated for Named Entities
+
+[![arXiv](https://img.shields.io/badge/ACL%20Anthology-ed1c24.svg)](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.464.pdf)
+[![Homepage](https://img.shields.io/badge/marcell%20homepage-6ca1f0)](https://marcell-project.eu/)
+
+
 * [COVID-19 Tweets](https://github.com/UBC-NLP/megacov)
 * [Minutes of the Sittings of the Chamber of Deputies of Romania](https://elrc-share.eu/repository/browse/monolingual-corpus-from-minutes-of-the-sittings-of-the-chamber-of-deputies-of-romania-2016-2018-processed/759806e22e1311e9a4d400155d02670657928f90efa64c9dab1b177c2186bf6c/)
 * [Minutes of the Sittings of the Romanian Parliament](https://elrc-share.eu/repository/browse/romanian-parliament-transcripts-1996-2018-processed/779b85aee4de11e9913100155d026706ac0a5e38c6824010a537363b37b6bd0f/)
