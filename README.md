@@ -20,7 +20,7 @@ For additions or any other changes please submit a pull request.
 >      from 2018. Romanian text is 16GB large
 
 [![arXiv](https://img.shields.io/badge/arXiv-1911.00359-f9f107.svg)](https://arxiv.org/abs/1911.00359)
-[![GitHub issues by-label](https://img.shields.io/badge/oscar%20homepage-6ca1f0)](https://data.statmt.org/cc-100/)
+[![GitHub issues by-label](https://img.shields.io/badge/cc-100%20homepage-6ca1f0)](https://data.statmt.org/cc-100/)
 
 * [Wikipedia Corpus](https://dumps.wikimedia.org/rowiki/)
 >       Romanian language wikipedia dump. 
