@@ -42,8 +42,16 @@ For additions or any other changes please submit a pull request.
 [![arXiv](https://img.shields.io/badge/ACL%20Anthology-ed1c24.svg)](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.464.pdf)
 [![Homepage](https://img.shields.io/badge/marcell%20homepage-6ca1f0)](https://marcell-project.eu/)
 
-
 * [COVID-19 Tweets](https://github.com/UBC-NLP/megacov)
+>    Mega-COV is a billion-scale dataset from Twitter for studying COVID-19. It is
+>    available in over 100+ languages, Romanian being one of them. Tweets need
+>    to be rehydrated
+
+[![arXiv](https://img.shields.io/badge/arXiv-2005.06012-f9f107.svg)](https://arxiv.org/abs/2005.06012)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://mumageed.medium.com/billion-scale-investigation-of-covid-19-impact-on-human-communication-in-104-languages-874b5a37beac)
+
+
+  
 * [Minutes of the Sittings of the Chamber of Deputies of Romania](https://elrc-share.eu/repository/browse/monolingual-corpus-from-minutes-of-the-sittings-of-the-chamber-of-deputies-of-romania-2016-2018-processed/759806e22e1311e9a4d400155d02670657928f90efa64c9dab1b177c2186bf6c/)
 * [Minutes of the Sittings of the Romanian Parliament](https://elrc-share.eu/repository/browse/romanian-parliament-transcripts-1996-2018-processed/779b85aee4de11e9913100155d026706ac0a5e38c6824010a537363b37b6bd0f/)
 * [Romanian Presidential Discourses](https://github.com/grrrrah/RomanianPresidentialDiscourses)
