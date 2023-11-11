@@ -89,12 +89,12 @@ Table of contents
 
 * [RO-STS](https://huggingface.co/datasets/ro_sts)
 * [Romanian paraphrase dataset](https://huggingface.co/datasets/BlackKakapo/paraphrase-ro)
-* [TaPaCo](https://zenodo.org/record/3707949)
+* [TaPaCo](https://huggingface.co/datasets/tapaco/viewer/ro/train)
 >    A multi-language paraphrase corpus for 73 languages extracted from the Tatoeba database.
->    It has ~ 2000 romanian phrases totaling X paraphrase groups. 
+>    It has ~ 2000 romanian phrases totaling 941 paraphrase groups. 
 
 [![ACL](https://img.shields.io/badge/ACL%20Anthology-ed1c24.svg)](https://aclanthology.org/2020.lrec-1.848/)
-[![Homepage](https://img.shields.io/badge/cc-100%20homepage-6ca1f0)](https://data.statmt.org/cc-100/)
+[![Homepage](https://img.shields.io/badge/cc-100%20homepage-6ca1f0)](https://zenodo.org/record/3707949)
 
 * [Romanian Bible Paraphrase Corpus](https://huggingface.co/datasets/andyP/ro-paraphrase-bible)
 
