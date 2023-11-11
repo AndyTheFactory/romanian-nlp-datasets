@@ -72,8 +72,20 @@ Table of contents
 
   
 * [Minutes of the Sittings of the Chamber of Deputies of Romania](https://elrc-share.eu/repository/browse/monolingual-corpus-from-minutes-of-the-sittings-of-the-chamber-of-deputies-of-romania-2016-2018-processed/759806e22e1311e9a4d400155d02670657928f90efa64c9dab1b177c2186bf6c/)
+>     Minutes of the Sittings of the Chamber of Deputies of Romania (2016-2018)
+>     Unannotated corpus
+  
 * [Minutes of the Sittings of the Romanian Parliament](https://elrc-share.eu/repository/browse/romanian-parliament-transcripts-1996-2018-processed/779b85aee4de11e9913100155d026706ac0a5e38c6824010a537363b37b6bd0f/)
+>     contains 500k+ instances of speech from the parliament podium from
+>     1996 to 2018. Sentence splitting and deduplication onm sentence level
+>     have been applied as processing steps
+>     Unannotated corpus
+  
 * [Romanian Presidential Discourses](https://github.com/grrrrah/RomanianPresidentialDiscourses)
+>     Romanian presidential discouses (1990-2020) split in 4 files
+>     one for each president. Unannotated corpus
+  
+  
 * [Culture Domain Corpus](https://elrc-share.eu/repository/browse/monolingual-romanian-corpus-in-the-culture-domain-processed/a1d6c98e1d5911e9b7d400155d026706fd71a90bf1df4bacb3f174edccb6e9b9/)
 * [Law Domain Corpus](https://elrc-share.eu/repository/browse/monolingual-romanian-corpus-in-the-law-domain/ee9f6b0289f611e6bfe700155d0205029e7b188412ab4e56bf6fd1d7d9e8b033/)
 * [Public Administration Domain Corpus](https://elrc-share.eu/repository/browse/monolingual-romanian-corpus-in-the-public-administration-domain-processed/32b0c234327311e8b7d400155d026706afa147904c554dd1bad4764bd4a7aaed/)
