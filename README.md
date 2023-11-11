@@ -112,8 +112,16 @@ Table of contents
 [![Homepage](https://img.shields.io/badge/hc%20corpora%20homepage-6ca1f0)](http://corpora.epizy.com/corpora.html?i=1)
 
 * [ELTeC-Rom](https://github.com/COST-ELTeC/ELTeC-rom)
+>   The Romanian novel collection for ELTeC, the European Literary Text Collection
+>   Sources: Biblioteca Metropolitana din Bucuresti, Biblioteca Universitara "Mihai Eminescu" din Iasi,
+>   Biblioteca Judeteana din Botosani, personal micro-collections uploaded on Zenodo
+>   under the following labels: "Hajduks Library"; "RomanianNovel Library"; "CityMysteries Library"; "BibliotecaDHL_Iasi" 
+  
 * [RO Business Emails](https://huggingface.co/datasets/readerbench/ro-business-emails)
+>   Public dataset of 1447 manually annotated Romanian business-oriented emails.
+>   The corpus is annotated with 5 token-related labels, as well as 5 sequence-related classes
 
+[![MDPI](https://img.shields.io/badge/MDPI-Information-00813E.svg)](https://www.mdpi.com/2078-2489/14/6/321)
 
 ## Semantic Textual Similarity / Paraphrasing
 
