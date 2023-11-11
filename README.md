@@ -87,12 +87,30 @@ Table of contents
   
   
 * [Culture Domain Corpus](https://elrc-share.eu/repository/browse/monolingual-romanian-corpus-in-the-culture-domain-processed/a1d6c98e1d5911e9b7d400155d026706fd71a90bf1df4bacb3f174edccb6e9b9/)
+>     Monolingual Romanian corpus, including content from public websites related to culture
+
 * [Law Domain Corpus](https://elrc-share.eu/repository/browse/monolingual-romanian-corpus-in-the-law-domain/ee9f6b0289f611e6bfe700155d0205029e7b188412ab4e56bf6fd1d7d9e8b033/)
+>    Monolingual (ron) corpus, containing 38063991 tokens and 854096 lexical types in the law domain.
+
 * [Public Administration Domain Corpus](https://elrc-share.eu/repository/browse/monolingual-romanian-corpus-in-the-public-administration-domain-processed/32b0c234327311e8b7d400155d026706afa147904c554dd1bad4764bd4a7aaed/)
+>    Monolingual Romanian corpus, containing 360833 sentences (9064764 words) in the public administration domain.
+  
 * [New Civil Procedure Code](https://elrc-share.eu/repository/browse/romanian-new-civil-procedure-code-processed/e4d8e13046ff11e8b7d400155d026706010657f248274e6286aeb6488d8a2ee6/)
+>    The New Civil Procedure Code in Romanian (monolingual) comprising 297888 words.
+
 * [New Criminal Code](https://elrc-share.eu/repository/browse/noul-cod-penal/100b7e38d25111ea913100155d0267066e48d760d0d24b39a4900b2b09864a02/)
+>     The Romanian updated criminal code: text with law content.
+
 * [Romanian News Articles Dataset](https://github.com/mhakan20/RomanianNewsArticlesDataset)
+>   news articles dataset from romanian newssites
+>   title, summary and article
+
 * [Old Newspapers](https://www.kaggle.com/datasets/alvations/old-newspapers)
+>   multi-language corpus from online available news sources.
+>   It contains also 43mil words in Romanian language from Twitter, Blogs and Newspapers
+
+[![Homepage](https://img.shields.io/badge/hc%20corpora%20homepage-6ca1f0)](http://corpora.epizy.com/corpora.html?i=1)
+
 * [ELTeC-Rom](https://github.com/COST-ELTeC/ELTeC-rom)
 * [RO Business Emails](https://huggingface.co/datasets/readerbench/ro-business-emails)
 
