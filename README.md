@@ -13,7 +13,7 @@ For additions or any other changes please submit a pull request.
 >     and the paper
  
 [![arXiv](https://img.shields.io/badge/arXiv-2004.06165-f9f107.svg)](https://arxiv.org/abs/2004.06165)
-[![GitHub issues by-label](https://img.shields.io/badge/oscar%20homepage-6ca1f0)](https://oscar-project.org/)
+[![Homepage](https://img.shields.io/badge/oscar%20homepage-6ca1f0)](https://oscar-project.org/)
 
 * [CC-100](https://data.statmt.org/cc-100/)
 >      Similar to Oscar, part of a multilanguage corpus also based on Common Crawl
@@ -39,7 +39,7 @@ For additions or any other changes please submit a pull request.
 >      decisions, decrees and laws.
 >      Automatically annotated for Named Entities
 
-[![arXiv](https://img.shields.io/badge/ACL%20Anthology-ed1c24.svg)](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.464.pdf)
+[![ACL](https://img.shields.io/badge/ACL%20Anthology-ed1c24.svg)](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.464.pdf)
 [![Homepage](https://img.shields.io/badge/marcell%20homepage-6ca1f0)](https://marcell-project.eu/)
 
 * [COVID-19 Tweets](https://github.com/UBC-NLP/megacov)
@@ -71,6 +71,12 @@ For additions or any other changes please submit a pull request.
 * [RO-STS](https://huggingface.co/datasets/ro_sts)
 * [Romanian paraphrase dataset](https://huggingface.co/datasets/BlackKakapo/paraphrase-ro)
 * [TaPaCo](https://zenodo.org/record/3707949)
+>    A multi-language paraphrase corpus for 73 languages extracted from the Tatoeba database.
+>    It has ~ 2000 romanian phrases totaling X paraphrase groups. 
+
+[![ACL](https://img.shields.io/badge/ACL%20Anthology-ed1c24.svg)](https://aclanthology.org/2020.lrec-1.848/)
+[![Homepage](https://img.shields.io/badge/cc-100%20homepage-6ca1f0)](https://data.statmt.org/cc-100/)
+
 * [Romanian Bible Paraphrase Corpus](https://huggingface.co/datasets/andyP/ro-paraphrase-bible)
 
 ## Natural Language Inference
