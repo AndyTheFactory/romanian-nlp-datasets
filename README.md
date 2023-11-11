@@ -4,6 +4,25 @@ For the moment we don't add parallel copora to the list.
 
 For additions or any other changes please submit a pull request.
 
+Table of contents
+=================
+
+<!--ts-->
+   * [Unlabeled text Corpora](#unlabeled-text-corpora)
+   * [Semantic Textual Similarity / Paraphrasing](#semantic-textual-similarity--paraphrasing)
+   * [Natural Language Inference](#natural-language-inference)
+   * [Summarization](#summarization)
+   * [Dialect and regional speech identification](#dialect-and-regional-speech-identification)
+   * [Named Entity Recognition (NER)](#named-entity-recognition-ner)
+   * [Autorship Attribution](#autorship-attribution)
+   * [Sentiment Analysis](#sentiment-analysis)
+   * [Dependency Parsing](#dependency-parsing)
+   * [Diacritics Restoration / Grammar Correction](#diacritics-restoration--grammar-correction)
+   * [Fake News / Clickbait / Satirical News](#fake-news--clickbait--satirical-news)
+   * [Offensive Language](#offensive-language)
+
+<!--te-->
+
 ## Unlabeled text Corpora
 
 * [Oscar Common Crawl dataset](https://huggingface.co/datasets/oscar-corpus/OSCAR-2201)
