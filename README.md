@@ -25,7 +25,7 @@ Table of contents
 
 ## Unlabeled text Corpora
 
-* [Oscar Common Crawl dataset](https://huggingface.co/datasets/oscar-corpus/OSCAR-2201)
+* [🌐 Oscar Common Crawl dataset 🌐](https://huggingface.co/datasets/oscar-corpus/OSCAR-2201)
 >     Part of a large multilanguage corpus originated from Common Crawl.
 >     It's a raw, unannotated corpus. It has roughly 50 GB of Romanian text
 >     in 4.5 million documnets. For details check its homepage 
@@ -34,25 +34,25 @@ Table of contents
 [![arXiv](https://img.shields.io/badge/arXiv-2004.06165-f9f107.svg)](https://arxiv.org/abs/2004.06165)
 [![Homepage](https://img.shields.io/badge/oscar%20homepage-6ca1f0)](https://oscar-project.org/)
 
-* [CC-100](https://data.statmt.org/cc-100/)
+* [📚 CC-100 📚](https://data.statmt.org/cc-100/)
 >      Similar to Oscar, part of a multilanguage corpus also based on Common Crawl
 >      from 2018. Romanian text is 16GB large
 
 [![arXiv](https://img.shields.io/badge/arXiv-1911.00359-f9f107.svg)](https://arxiv.org/abs/1911.00359)
 [![Homepage](https://img.shields.io/badge/cc-100%20homepage-6ca1f0)](https://data.statmt.org/cc-100/)
 
-* [Wikipedia Corpus](https://dumps.wikimedia.org/rowiki/)
+* [🌍 Wikipedia Corpus 🌍](https://dumps.wikimedia.org/rowiki/)
 >       Romanian language wikipedia dump. 
   
-* [RoTex Collection](https://github.com/aleris/ReadME-RoTex-Corpus-Builder)
+* [📰⚖️ RoTex Collection 📰⚖️](https://github.com/aleris/ReadME-RoTex-Corpus-Builder)
 >       A collection of varoius unannotated corpora collected around 2018-2019.
 >       Includes books, scraped newspapers and juridical documents  
 > 
-* [Romanian Language Repository](https://github.com/lmidriganciochina/romaniancorpus)
+* [📖 Romanian Language Repository 📖](https://github.com/lmidriganciochina/romaniancorpus)
 >       A collection of written and spoken text from various
 >       sources: Articles, Fairy tales, Fiction, History, Theatre, News
  
-* [MARCELL Legislative Corpus](https://elrc-share.eu/repository/browse/marcell-romanian-legislative-subcorpus-v2/2da548428b9d11eb9c1a00155d026706ce94a6b59ffc4b0e9fb5cd9cebe6889e/)
+* [🏛️ MARCELL Legislative Corpus 🏛️](https://elrc-share.eu/repository/browse/marcell-romanian-legislative-subcorpus-v2/2da548428b9d11eb9c1a00155d026706ce94a6b59ffc4b0e9fb5cd9cebe6889e/)
 >      Romanian national legilation from  1881 to 2021. The corpus
 >      includes mainly: governmental decisions, ministerial orders,
 >      decisions, decrees and laws.
@@ -61,7 +61,7 @@ Table of contents
 [![ACL](https://img.shields.io/badge/ACL%20Anthology-ed1c24.svg)](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.464.pdf)
 [![Homepage](https://img.shields.io/badge/marcell%20homepage-6ca1f0)](https://marcell-project.eu/)
 
-* [COVID-19 Tweets](https://github.com/UBC-NLP/megacov)
+* [🦠 COVID-19 Tweets 🐦](https://github.com/UBC-NLP/megacov)
 >    Mega-COV is a billion-scale dataset from Twitter for studying COVID-19. It is
 >    available in over 100+ languages, Romanian being one of them. Tweets need
 >    to be rehydrated
@@ -71,22 +71,22 @@ Table of contents
 
 
   
-* [Minutes of the Sittings of the Chamber of Deputies of Romania](https://elrc-share.eu/repository/browse/monolingual-corpus-from-minutes-of-the-sittings-of-the-chamber-of-deputies-of-romania-2016-2018-processed/759806e22e1311e9a4d400155d02670657928f90efa64c9dab1b177c2186bf6c/)
+* [📜 Minutes of the Sittings of the Chamber of Deputies of Romania 📜](https://elrc-share.eu/repository/browse/monolingual-corpus-from-minutes-of-the-sittings-of-the-chamber-of-deputies-of-romania-2016-2018-processed/759806e22e1311e9a4d400155d02670657928f90efa64c9dab1b177c2186bf6c/)
 >     Minutes of the Sittings of the Chamber of Deputies of Romania (2016-2018)
 >     Unannotated corpus
   
-* [Minutes of the Sittings of the Romanian Parliament](https://elrc-share.eu/repository/browse/romanian-parliament-transcripts-1996-2018-processed/779b85aee4de11e9913100155d026706ac0a5e38c6824010a537363b37b6bd0f/)
+* [🔊 Minutes of the Sittings of the Romanian Parliament 🔊](https://elrc-share.eu/repository/browse/romanian-parliament-transcripts-1996-2018-processed/779b85aee4de11e9913100155d026706ac0a5e38c6824010a537363b37b6bd0f/)
 >     contains 500k+ instances of speech from the parliament podium from
 >     1996 to 2018. Sentence splitting and deduplication onm sentence level
 >     have been applied as processing steps
 >     Unannotated corpus
   
-* [Romanian Presidential Discourses](https://github.com/grrrrah/RomanianPresidentialDiscourses)
+* [🗣️ Romanian Presidential Discourses 🗣️](https://github.com/grrrrah/RomanianPresidentialDiscourses)
 >     Romanian presidential discouses (1990-2020) split in 4 files
 >     one for each president. Unannotated corpus
   
   
-* [Culture Domain Corpus](https://elrc-share.eu/repository/browse/monolingual-romanian-corpus-in-the-culture-domain-processed/a1d6c98e1d5911e9b7d400155d026706fd71a90bf1df4bacb3f174edccb6e9b9/)
+* [🎭 Culture Domain Corpus 🎭](https://elrc-share.eu/repository/browse/monolingual-romanian-corpus-in-the-culture-domain-processed/a1d6c98e1d5911e9b7d400155d026706fd71a90bf1df4bacb3f174edccb6e9b9/)
 >     Monolingual Romanian corpus, including content from public websites related to culture
 
 * [Law Domain Corpus](https://elrc-share.eu/repository/browse/monolingual-romanian-corpus-in-the-law-domain/ee9f6b0289f611e6bfe700155d0205029e7b188412ab4e56bf6fd1d7d9e8b033/)
