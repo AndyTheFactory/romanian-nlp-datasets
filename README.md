@@ -192,9 +192,26 @@ Table of contents
 ## Offensive Language
 
 * [RO-Offense](https://huggingface.co/datasets/readerbench/ro-offense)
+  
 * [News RO-Offense](https://huggingface.co/datasets/readerbench/news-ro-offense)
+> manually annotated 4,052 comments on a Romanian local news website
+> into one of the following classes: non-offensive, targeted insults,
+> racist, homophobic, and sexist.
+
+[![arXiv](https://img.shields.io/badge/UTCluj-RoCHI-ac2820.svg)](http://rochi.utcluj.ro/articole/10/RoCHI2022-Cojocaru-A.pdf)
+
 * [FB RO-Offense](https://huggingface.co/datasets/readerbench/ro-fb-offense)
+> 4455 organic generated comments from Facebook live broadcasts
+> annotated not binary offensive language detection tasks and for fine-grained offensive language detection
+
+[![IEEE](https://img.shields.io/badge/IEEE-xplore-14303e.svg)](https://ieeexplore.ieee.org/document/10130824)
+
 * [RO-Offense-Sequences](https://huggingface.co/datasets/readerbench/ro-offense-sequences)
+> 4800 Romanian comments annotated with offensive text spans
+> Offensive span detection
+
+[![MDPI](https://img.shields.io/badge/MDPI-Information-00813e.svg)](https://www.mdpi.com/2078-2489/15/1/8)
+
 * [Hate Speech RO](https://github.com/andra-pumnea/hate-speech-ro)
 * [ROFF](https://github.com/guzimanis/ROFF)
 * [CoRoSeOf](https://github.com/DianaHoefels/CoRoSeOf)
