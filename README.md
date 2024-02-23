@@ -20,6 +20,8 @@ Table of contents
    * [Diacritics Restoration / Grammar Correction](#diacritics-restoration--grammar-correction)
    * [Fake News / Clickbait / Satirical News](#fake-news--clickbait--satirical-news)
    * [Offensive Language](#offensive-language)
+   * [Questions and Answering](#questions-and-answers)
+   * [Spelling and Gramatical Errors](#spelling-and-gramatical-errors)
 
 <!--te-->
 
