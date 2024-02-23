@@ -69,8 +69,6 @@ Table of contents
 [![arXiv](https://img.shields.io/badge/arXiv-2005.06012-f9f107.svg)](https://arxiv.org/abs/2005.06012)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://mumageed.medium.com/billion-scale-investigation-of-covid-19-impact-on-human-communication-in-104-languages-874b5a37beac)
 
-
-  
 * [📜 Minutes of the Sittings of the Chamber of Deputies of Romania 📜](https://elrc-share.eu/repository/browse/monolingual-corpus-from-minutes-of-the-sittings-of-the-chamber-of-deputies-of-romania-2016-2018-processed/759806e22e1311e9a4d400155d02670657928f90efa64c9dab1b177c2186bf6c/)
 >     Minutes of the Sittings of the Chamber of Deputies of Romania (2016-2018)
 >     Unannotated corpus
@@ -123,10 +121,30 @@ Table of contents
 
 [![MDPI](https://img.shields.io/badge/MDPI-Information-00813E.svg)](https://www.mdpi.com/2078-2489/14/6/321)
 
+
+* [📖RO-Stories📖](https://huggingface.co/datasets/readerbench/ro-stories)
+>  The corpus consists of texts written by Romanian authors between 19th century and present, representing stories, short-stories, fairy tales and sketches.
+>  The current version contains 19 authors, 1263 full texts and 12516 paragraphs of around 200 words each, preserving paragraphs integrity.
+
+* [🍳Romanian Cooking Recipes🍳](https://huggingface.co/datasets/BlackKakapo/recipes-ro)
+>  891 Cooking Recipes in Romanian Language
+
 ## Semantic Textual Similarity / Paraphrasing
 
 * [RO-STS](https://huggingface.co/datasets/ro_sts)
+>   Semantic Textual Similarity dataset for the Romanian language
+>   RO-STS contains 8,628 sentence pairs with their similarity scores
+
+[![NeurIPS](https://img.shields.io/badge/NeurIPS-ed1c24.svg)](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/hash/5f93f983524def3dca464469d2cf9f3e-Abstract-round1.html)
+
+* [Romanian Bible Paraphrase Corpus](https://huggingface.co/datasets/andyP/ro-paraphrase-bible)
+>   A paraphprase corpus created from 10 different Romanian language Bible versions.
+>   The final dataset contains 904,815 similar records and 218,977 non matching records, totaling 1,123,927
+
+
 * [Romanian paraphrase dataset](https://huggingface.co/datasets/BlackKakapo/paraphrase-ro)
+>  Around ~100k examples of paraphrases. No clear explanation on how the dataset was built
+
 * [TaPaCo](https://huggingface.co/datasets/tapaco/viewer/ro/train)
 >    A multi-language paraphrase corpus for 73 languages extracted from the Tatoeba database.
 >    It has ~ 2000 romanian phrases totaling 941 paraphrase groups. 
@@ -134,14 +152,15 @@ Table of contents
 [![ACL](https://img.shields.io/badge/ACL%20Anthology-ed1c24.svg)](https://aclanthology.org/2020.lrec-1.848/)
 [![Homepage](https://img.shields.io/badge/cc-100%20homepage-6ca1f0)](https://zenodo.org/record/3707949)
 
-* [Romanian Bible Paraphrase Corpus](https://huggingface.co/datasets/andyP/ro-paraphrase-bible)
-
 ## Natural Language Inference
 
-* [RO-NLI](https://github.com/dumitrescustefan/RO-NLI)
+* [~RO-NLI~](https://github.com/dumitrescustefan/RO-NLI)
+>  The repository seems to be just an attempt at starting to build the dataset 
 
 ## Summarization
 * [RO Text Summarization](https://huggingface.co/datasets/readerbench/ro-text-summarization)
+>   Around ~72k Full texts and their summary. Source seems to be news websites.
+>   No description or explanation available
 
 ## Dialect and regional speech identification
 * [RoDia](https://github.com/codrut2/RoDia)
@@ -216,3 +235,14 @@ Table of contents
 * [ROFF](https://github.com/guzimanis/ROFF)
 * [CoRoSeOf](https://github.com/DianaHoefels/CoRoSeOf)
 
+## Questions and Answers
+
+* [🧮 GSM8K RO 🧮](https://huggingface.co/datasets/BlackKakapo/gsm8k-ro)https://huggingface.co/datasets/BlackKakapo/gsm8k-ro
+>   This dataset is just the translation of the [gsm8k](https://huggingface.co/datasets/gsm8k) dataset.
+>   GSM8K (Grade School Math 8K) is a dataset of 8.5K high quality linguistically diverse grade school math word problems.
+>   There is no information on the quality of the translation
+
+## Spelling and Gramatical Errors
+
+* [Grammar-RO](https://huggingface.co/datasets/BlackKakapo/grammar-ro)
+>  Synthetic dataset with ~1.9M records. Altered and correct statement as columns
