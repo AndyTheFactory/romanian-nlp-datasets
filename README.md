@@ -21,7 +21,7 @@ Table of contents
    * [Fake News / Clickbait / Satirical News](#fake-news--clickbait--satirical-news)
    * [Offensive Language](#offensive-language)
    * [Questions and Answering](#questions-and-answers)
-   * [Spelling and Gramatical Errors](#spelling-and-gramatical-errors)
+   * [Spelling, Dictionaries and Gramatical Errors](#spelling-and-gramatical-errors)
 
 <!--te-->
 
@@ -260,7 +260,17 @@ Table of contents
 [![arXiv](https://img.shields.io/badge/arXiv-2005.06012-f9f107.svg)](https://arxiv.org/abs/2402.13222)
 
 
-## Spelling and Gramatical Errors
+## Spelling, Dictionaries and Gramatical Errors
 
 * [Grammar-RO](https://huggingface.co/datasets/BlackKakapo/grammar-ro)
 >  Synthetic dataset with ~1.9M records. Altered and correct statement as columns
+
+* [RoAcReL](https://huggingface.co/datasets/fmi-unibuc/RoAcReL)
+>  Romanian Archaisms Regionalisms Lexicon containing ~ 1940 Word definitions
+
+* [RoRuDi](https://huggingface.co/datasets/fmi-unibuc/RoRuDi)
+> Romanian Rules for Dialects - 1940 regionalisms, meanings and the region of provenience
+
+
+
+
