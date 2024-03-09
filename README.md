@@ -246,10 +246,19 @@ Table of contents
 
 ## Questions and Answers
 
-* [🧮 GSM8K RO 🧮](https://huggingface.co/datasets/BlackKakapo/gsm8k-ro)https://huggingface.co/datasets/BlackKakapo/gsm8k-ro
+* [🧮 GSM8K RO 🧮](https://huggingface.co/datasets/BlackKakapo/gsm8k-ro)
 >   This dataset is just the translation of the [gsm8k](https://huggingface.co/datasets/gsm8k) dataset.
 >   GSM8K (Grade School Math 8K) is a dataset of 8.5K high quality linguistically diverse grade school math word problems.
 >   There is no information on the quality of the translation
+
+* [💻 ROCODE 💻](https://huggingface.co/datasets/cosmadrian/rocode)
+>   RoCode, a competitive programming dataset, consisting of 2,642 problems written in Romanian,
+>  11k solutions in C, C++ and Python and comprehensive testing suites for each problem. The purpose of RoCode
+>  is to provide a benchmark for evaluating the code intelligence of language models trained on
+>  Romanian / multilingual text as well as a fine-tuning set for pretrained Romanian models.
+
+[![arXiv](https://img.shields.io/badge/arXiv-2005.06012-f9f107.svg)](https://arxiv.org/abs/2402.13222)
+
 
 ## Spelling and Gramatical Errors
 
