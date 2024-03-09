@@ -128,6 +128,13 @@ Table of contents
 >  The corpus consists of texts written by Romanian authors between 19th century and present, representing stories, short-stories, fairy tales and sketches.
 >  The current version contains 19 authors, 1263 full texts and 12516 paragraphs of around 200 words each, preserving paragraphs integrity.
 
+* [📕ROST📕](https://www.kaggle.com/datasets/sandamariaavram/rost-romanian-stories-and-other-texts)
+>  A dataset containing 400 Romanian texts written by 10 authors
+>  The dataset contains stories, short stories, fairy tales, novels, articles, and sketches written by Ion Creangă,
+>  Barbu Ştefănescu Delavrancea, Mihai Eminescu, Nicolae Filimon, Emil Gârleanu, Petre Ispirescu, Mihai Oltean, Emilia Plugaru, Liviu Rebreanu, Ioan Slavici.
+
+[![MDPI](https://img.shields.io/badge/MDPI-Information-00813E.svg)](https://www.mdpi.com/2227-7390/10/23/4589)
+
 * [🍳Romanian Cooking Recipes🍳](https://huggingface.co/datasets/BlackKakapo/recipes-ro)
 >  891 Cooking Recipes in Romanian Language
 
