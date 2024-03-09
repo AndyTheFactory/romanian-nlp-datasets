@@ -241,8 +241,18 @@ Table of contents
 [![MDPI](https://img.shields.io/badge/MDPI-Information-00813e.svg)](https://www.mdpi.com/2078-2489/15/1/8)
 
 * [Hate Speech RO](https://github.com/andra-pumnea/hate-speech-ro)
+> 3860 labeled hate speech records
+  
 * [ROFF](https://github.com/guzimanis/ROFF)
+> Dataset consists of 5000 tweets, from which 924 were labeled as offensive (18.48 %)
+> and 4076 tweets as non-offensive.
+
+[![ACL](https://img.shields.io/badge/ACL%20Anthology-ed1c24.svg)](https://aclanthology.org/2021.ranlp-1.102.pdf)
+  
 * [CoRoSeOf](https://github.com/DianaHoefels/CoRoSeOf)
+  
+[![ACL](https://img.shields.io/badge/ACL%20Anthology-ed1c24.svg)](https://aclanthology.org/2022.lrec-1.243.pdf)
+> The corpus contains 39 245 tweets, annotated by multiple annotators, following the sexist label set of a recent study.
 
 ## Questions and Answers
 
