@@ -250,9 +250,9 @@ Table of contents
 [![ACL](https://img.shields.io/badge/ACL%20Anthology-ed1c24.svg)](https://aclanthology.org/2021.ranlp-1.102.pdf)
   
 * [CoRoSeOf](https://github.com/DianaHoefels/CoRoSeOf)
-  
-[![ACL](https://img.shields.io/badge/ACL%20Anthology-ed1c24.svg)](https://aclanthology.org/2022.lrec-1.243.pdf)
 > The corpus contains 39 245 tweets, annotated by multiple annotators, following the sexist label set of a recent study.
+
+[![ACL](https://img.shields.io/badge/ACL%20Anthology-ed1c24.svg)](https://aclanthology.org/2022.lrec-1.243.pdf)
 
 ## Questions and Answers
 
