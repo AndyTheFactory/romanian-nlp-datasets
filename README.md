@@ -1,6 +1,6 @@
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-# A list of Romanian NL Datasets
+# A list of Romanian NLP Datasets
 A curated list of open source and open access Romanian Language NLP Datasets.
 For the moment we don't add parallel copora to the list.
 
