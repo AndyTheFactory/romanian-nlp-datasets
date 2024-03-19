@@ -1,3 +1,5 @@
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
 # A list of Romanian NL Datasets
 A curated list of open source and open access Romanian Language NLP Datasets.
 For the moment we don't add parallel copora to the list.
@@ -173,8 +175,20 @@ Table of contents
 
 ## Dialect and regional speech identification
 * [RoDia](https://github.com/codrut2/RoDia)
+> varied compilation of speech samples from five distinct regions of Romania, covering both urban and rural environments.
+> Around 2800 records labeled with age, gender and type of dialect
+
+[![arXiv](https://img.shields.io/badge/arXiv-2309.03378-f9f107.svg)](https://arxiv.org/abs/2309.03378)
+
 * [MOROCO](https://github.com/butnaruandrei/MOROCO)
-    
+> MOROCO: The Moldavian and Romanian Dialectal Corpus
+> The MOROCO data set contains Moldavian and Romanian samples of text collected from the news domain.
+> The samples belong to one of the following six topics: culture, finance, politics, science, sports, tech
+> totaling over 32.000 labeled records
+
+[![arXiv](https://img.shields.io/badge/arXiv-1901.06543-f9f107.svg)](https://arxiv.org/abs/1901.06543)
+
+  
 ## Named Entity Recognition (NER)
 
 * [LegalNERo](https://huggingface.co/datasets/joelito/legalnero)
