@@ -30,9 +30,10 @@ Table of contents
 ## Unlabeled text Corpora
 
 
-* [❄️FuLG dataset 🌐](https://huggingface.co/datasets/faur-ai/fulg)
+* [❄️FuLG dataset ❄️](https://huggingface.co/datasets/faur-ai/fulg)
 >     The FuLG dataset is a comprehensive Romanian language corpus comprising
 >     150 billion tokens, carefully extracted from Common Crawl. 
+[![arXiv](https://img.shields.io/badge/arXiv-2004.06165-f9f107.svg)](https://arxiv.org/abs/2407.13657)
 
 * [🌐 Oscar Common Crawl dataset 🌐](https://huggingface.co/datasets/oscar-corpus/OSCAR-2201)
 >     Part of a large multilanguage corpus originated from Common Crawl.
