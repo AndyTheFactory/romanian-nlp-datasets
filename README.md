@@ -79,6 +79,10 @@ Table of contents
 [![arXiv](https://img.shields.io/badge/arXiv-2005.06012-f9f107.svg)](https://arxiv.org/abs/2005.06012)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://mumageed.medium.com/billion-scale-investigation-of-covid-19-impact-on-human-communication-in-104-languages-874b5a37beac)
 
+* [COVIDSentiRO](https://github.com/Alegzandra/KES-2023/tree/main/datasets/COVIDSentiRO)
+>    A corpus of Romanian tweets related to COVID and vaccination against COVID, created and
+>    collected between January 2021 and February 2022. It contains 19319 tweets.
+
 * [📜 Minutes of the Sittings of the Chamber of Deputies of Romania 📜](https://elrc-share.eu/repository/browse/monolingual-corpus-from-minutes-of-the-sittings-of-the-chamber-of-deputies-of-romania-2016-2018-processed/759806e22e1311e9a4d400155d02670657928f90efa64c9dab1b177c2186bf6c/)
 >     Minutes of the Sittings of the Chamber of Deputies of Romania (2016-2018)
 >     Unannotated corpus
@@ -212,6 +216,7 @@ Table of contents
 * [RO_Sent](https://huggingface.co/datasets/ro_sent)
 * [Senti_Lex](https://huggingface.co/datasets/senti_lex)
 * [LaROSeDa](https://huggingface.co/datasets/laroseda)
+* [SART](https://github.com/Alegzandra/KES-2023/tree/main/datasets/SART)
 * [RED](https://github.com/Alegzandra/RED-Romanian-Emotions-Dataset)
 * [Romanian Categorized Web Dataset](https://github.com/bogsio/RomanianCategorizedWebDataset)
 * [Romanian Sentiment Movie Reviews](https://www.kaggle.com/datasets/gringoandy/romanian-sentiment-movie-reviews)
