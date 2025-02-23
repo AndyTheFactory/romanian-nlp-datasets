@@ -176,7 +176,11 @@ Table of contents
 ## Natural Language Inference
 
 * [~RO-NLI~](https://github.com/dumitrescustefan/RO-NLI)
->  The repository seems to be just an attempt at starting to build the dataset 
+>  The repository seems to be just an attempt at starting to build the dataset
+
+* [RONLI](https://github.com/Eduard6421/RONLI)
+>  The respository contains 64K pairs of automatically annotated texts, out of which the val/test sets are manually annotated.
+[![ACL](https://img.shields.io/badge/ACL%20Anthology-ed1c24.svg)](https://aclanthology.org/2024.acl-long.15/)
 
 ## Summarization
 * [RO Text Summarization](https://huggingface.co/datasets/readerbench/ro-text-summarization)
