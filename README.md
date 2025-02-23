@@ -179,7 +179,7 @@ Table of contents
 >  The repository seems to be just an attempt at starting to build the dataset
 
 * [RONLI](https://github.com/Eduard6421/RONLI)
->  The respository contains 64K pairs of automatically annotated texts, out of which the val/test sets are manually annotated.
+>   We introduce the first Romanian NLI corpus (RoNLI) comprising 58K training sentence pairs, which are obtained via distant supervision, and 6K validation and test sentence pairs, which are manually annotated with the correct labels.
 [![ACL](https://img.shields.io/badge/ACL%20Anthology-ed1c24.svg)](https://aclanthology.org/2024.acl-long.15/)
 
 ## Summarization
