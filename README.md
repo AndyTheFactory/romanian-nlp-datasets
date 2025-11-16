@@ -24,6 +24,7 @@ Table of contents
    * [Offensive Language](#offensive-language)
    * [Questions and Answering](#questions-and-answers)
    * [Spelling, Dictionaries and Gramatical Errors](#spelling-and-gramatical-errors)
+   * [Automatic Speech Recognition (ASR)](#automatic-speech-recognition)
 
 <!--te-->
 
@@ -212,6 +213,15 @@ Table of contents
 * [RONEC](https://huggingface.co/datasets/ronec)
 * [WikiAnn](https://huggingface.co/datasets/wikiann)
 * [SiMoNERo](https://github.com/UniversalDependencies/UD_Romanian-SiMoNERo)
+* [HistNERo]()
+> The dataset contains 323k tokens of text, covering more than half of the 19th century
+> (i.e., 1817) until the late part of the 20th century (i.e., 1990).
+> The samples belong to one of the following four historical regions of Romania,
+> namely Bessarabia, Moldavia, Transylvania, and Wallachia.
+
+[![arXiv](https://img.shields.io/badge/arXiv-2405.00155-f9f107.svg)](https://arxiv.org/abs/2405.00155v1)
+
+
 
 ## Autorship Attribution
 
@@ -301,6 +311,26 @@ Table of contents
 
 [![arXiv](https://img.shields.io/badge/arXiv-2005.06012-f9f107.svg)](https://arxiv.org/abs/2402.13222)
 
+* [💻 RoITD 💻](https://huggingface.co/datasets/dragosnicolae555/RoITD)
+> Romanian IT Dataset (RoITD) resembling SQuAD 1.1.
+> RoITD consists of 9575 Romanian QA pairs formulated by crowd workers. QA pairs are based on 5043 articles from Romanian Wikipedia articles describing IT and household products.
+> Of the total number of questions, 5103 are possible (i.e. the correct answer can be found within the paragraph) and 4472 are not possible (i.e. the given answer is a "plausible answer" and not correct)
+
+* [🩺 RoMedQA 🩺](https://github.com/ana-rogoz/MedQARo)
+> The dataset comprises 102,646 high-quality QA pairs from real-world clinical records of 1,011 oncology patients (796 patients with breast cancer and 215 patients with lung cancer).
+> The QA pairs are the results of a manual annotation process carried out by physicians specialized in oncology and radiotherapy
+> RoMedQA includes 76,416 QA pairs about breast cancer patients and 26,230 about lung cancer patients, with questions grounded in medical case summaries (epicrises).
+
+[![arXiv](https://img.shields.io/badge/arXiv-2508.16390-f9f107.svg)](https://arxiv.org/abs/2508.16390v1)
+
+* [⚖️ JurRO ⚖️](https://github.com/craciuncg/GRAF)
+> Romanian legal MCQA dataset, comprising 10,836 questions from three examinations.
+>  Each entry essentially consists of a body in which a theoretical question is posed regarding
+> a legal aspect, along with three possible answer choices labeled A, B, and C,
+> out of which at mosttwo answers are correct.
+
+[![ACL](https://img.shields.io/badge/ACL%20Anthology-ed1c24.svg)](https://aclanthology.org/2025.findings-acl.659/)
+
 
 ## Spelling, Dictionaries and Gramatical Errors
 
@@ -313,6 +343,18 @@ Table of contents
 * [RoRuDi](https://huggingface.co/datasets/fmi-unibuc/RoRuDi)
 > Romanian Rules for Dialects - 1940 regionalisms, meanings and the region of provenience
 
+* [RoLEX](https://github.com/adrianastan/rolex)
+> The dataset was developed mainly for speech processing applications, yet its applicability
+> extends beyond this domain. RoLEX includes over 330,000 curated entries with information
+> regarding lemma, morphosyntactic description, syllabification, lexical stress and phonemic transcription.
 
+[![Cambridge](https://img.shields.io/badge/Cambridge-Core-ef4135.svg)](https://adrianastan.com/papers/2022_NLE.pdf)
 
+## Automatic Speech Recognition
 
+* [🗣️ USPDATRO 🗣️](https://zenodo.org/records/7898233)
+> Underrepresented Speech Dataset from Open Data. Duration of the dataset is 4h 18m 55s.
+> Distribution according to platforms: 83% of the content comes from YouTube, 12% from SoundCloud, and 5% from Vimeo
+> Dataset covers primarily under-represented speech groups (outside the 19–29 male category)
+
+[![MDPI](https://img.shields.io/badge/MDPI-Information-00813E.svg)](https://www.mdpi.com/2076-3417/14/19/9043)
