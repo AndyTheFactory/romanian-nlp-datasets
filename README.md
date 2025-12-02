@@ -160,7 +160,7 @@ Table of contents
 [![NeurIPS](https://img.shields.io/badge/NeurIPS-ed1c24.svg)](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/hash/5f93f983524def3dca464469d2cf9f3e-Abstract-round1.html)
 
 * [📖 Romanian Bible Paraphrase Corpus 📖](https://huggingface.co/datasets/andyP/ro-paraphrase-bible)
->   A paraphprase corpus created from 10 different Romanian language Bible versions.
+>   A paraphrase corpus created from 10 different Romanian language Bible versions.
 >   The final dataset contains 904,815 similar records and 218,977 non matching records, totaling 1,123,927
 
 
