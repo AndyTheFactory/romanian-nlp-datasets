@@ -19,10 +19,12 @@ Table of contents
    * [Named Entity Recognition (NER)](#named-entity-recognition-ner)
    * [Autorship Attribution](#autorship-attribution)
    * [Sentiment Analysis](#sentiment-analysis)
+   * [Emotion and Mental Health Language](#emotion-and-mental-health-language)
    * [Dependency Parsing](#dependency-parsing)
    * [Diacritics Restoration / Grammar Correction](#diacritics-restoration--grammar-correction)
    * [Fake News / Clickbait / Satirical News](#fake-news--clickbait--satirical-news)
    * [Offensive Language](#offensive-language)
+   * [LLM Safety and Evaluation](#llm-safety-and-evaluation)
    * [Questions and Answering](#questions-and-answers)
    * [Spelling, Dictionaries and Gramatical Errors](#spelling-and-gramatical-errors)
    * [Automatic Speech Recognition (ASR)](#automatic-speech-recognition)
@@ -292,6 +294,19 @@ Table of contents
 * [🎬 Romanian Sentiment Movie Reviews 🎬](https://www.kaggle.com/datasets/gringoandy/romanian-sentiment-movie-reviews)
 
 
+* [💬 RoABSA 💬](https://huggingface.co/datasets/upb-nlp/RoABSA)
+>   Romanian aspect-based sentiment analysis dataset containing 9,590 annotated entries.
+>   Includes aspect categories and polarity labels for opinion mining from customer reviews.
+
+## Emotion and Mental Health Language
+
+* [🧠 PsihoRo 🧠](https://huggingface.co/datasets/Alegzandra/PsihoRo)
+>   Romanian-language survey corpus with 205 respondent records, open-ended responses
+>   about emotions and social-media experiences, and associated PHQ-9/GAD-7 questionnaire scores.
+>   The dataset uses a custom license; consult its terms before reuse.
+
+[![arXiv](https://img.shields.io/badge/arXiv-2602.18324-f9f107.svg)](https://arxiv.org/abs/2602.18324)
+
 ## Dependency Parsing
 
 * [🌳 CoNLL 2017 & 2018 🌳](https://www.conll.org/previous-tasks)
@@ -305,6 +320,10 @@ Table of contents
 
 * [✍️ Corpus for training and evaluating diacritics restoration systems ✍️](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2607)
 * [✏️ RONACC ✏️](https://nextcloud.readerbench.com/index.php/s/9pwymesT5sycxoM)
+
+* [🔤 Romanian Diacritics Restoration 🔤](https://huggingface.co/datasets/klusai/diacritics-ro)
+>   A Romanian diacritics-restoration dataset of approximately 340,925 examples,
+>   suitable for training and evaluating models that recover missing diacritics.
 
 ## Fake News / Clickbait / Satirical News
 
@@ -349,7 +368,19 @@ Table of contents
 
 [![ACL](https://img.shields.io/badge/ACL%20Anthology-ed1c24.svg)](https://aclanthology.org/2022.lrec-1.243.pdf)
 
+## LLM Safety and Evaluation
+
+* [🛡️ RoSafetyBench 🛡️](https://huggingface.co/datasets/rosafety-bench/rosafety-bench)
+>   A Romanian-language benchmark with 953 prompts for evaluating LLM safety, bias,
+>   hallucinations, over-refusal, jailbreak robustness, and Romanian-English consistency.
+>   The dataset includes potentially harmful evaluation prompts.
+
 ## Questions and Answers
+
+* [📚 EduRO-FillBlank 📚](https://huggingface.co/datasets/dariurs/EduRO-FillBlank)
+>   A Romanian Wikipedia-derived fill-in-the-blank dataset with 72,541 examples
+>   across 45 academic domains, provided with train, validation, and test splits.
+
 
 * [🧮 GSM8K RO 🧮](https://huggingface.co/datasets/BlackKakapo/gsm8k-ro)
 >   This dataset is just the translation of the [gsm8k](https://huggingface.co/datasets/gsm8k) dataset.
@@ -368,6 +399,10 @@ Table of contents
 > Romanian IT Dataset (RoITD) resembling SQuAD 1.1.
 > RoITD consists of 9575 Romanian QA pairs formulated by crowd workers. QA pairs are based on 5043 articles from Romanian Wikipedia articles describing IT and household products.
 > Of the total number of questions, 5103 are possible (i.e. the correct answer can be found within the paragraph) and 4472 are not possible (i.e. the given answer is a "plausible answer" and not correct)
+
+* [🗣️ PolERo 🗣️](https://huggingface.co/datasets/gabrielstefan04/polero)
+>   A dataset of 3,574 annotated question-answer pairs from journalist-president
+>   exchanges, labeled for reply clarity and evasion. Contains training and validation splits.
 
 * [🩺 RoMedQA 🩺](https://github.com/ana-rogoz/MedQARo)
 > The dataset comprises 102,646 high-quality QA pairs from real-world clinical records of 1,011 oncology patients (796 patients with breast cancer and 215 patients with lung cancer).
@@ -436,6 +471,10 @@ Table of contents
 >   Enables research in correction, normalization, and document processing for Romanian legal text.
 
 [![arXiv](https://img.shields.io/badge/arXiv-2604.19593-f9f107.svg)](https://arxiv.org/abs/2604.19593)
+
+* [📖 LEMI lexical lists 📖](https://huggingface.co/datasets/upb-nlp/lemi_lexical_lists)
+>   A Romanian lexical resource containing 9,836 words grouped into four school-grade
+>   vocabulary lists, useful for readability analysis and age-adapted lexical simplification.
 
 ## Automatic Speech Recognition
 
