@@ -12,6 +12,7 @@ Table of contents
 <!--ts-->
    * [Unlabeled text Corpora](#unlabeled-text-corpora)
    * [Semantic Textual Similarity / Paraphrasing](#semantic-textual-similarity--paraphrasing)
+   * [Lexical Simplification / Complexity Prediction](#lexical-simplification--complexity-prediction)
    * [Natural Language Inference](#natural-language-inference)
    * [Summarization](#summarization)
    * [Dialect and regional speech identification](#dialect-and-regional-speech-identification)
@@ -187,6 +188,15 @@ Table of contents
 
 [![ACL](https://img.shields.io/badge/ACL%20Anthology-ed1c24.svg)](https://aclanthology.org/2020.lrec-1.848/)
 [![Homepage](https://img.shields.io/badge/cc-100%20homepage-6ca1f0)](https://zenodo.org/record/3707949)
+
+## Lexical Simplification / Complexity Prediction
+
+* [📖 RALS — Romanian Automatic Lexical Simplification 📖](https://github.com/senisioi/RALS)
+>   Resources for Romanian lexical complexity prediction and lexical simplification, including
+>   3,921 human-annotated word-in-context complexity samples and synonym simplification judgments.
+>   Download the dataset archive from the repository; the archive password is documented in its README.
+
+[![ACL](https://img.shields.io/badge/ACL%20Anthology-ed1c24.svg)](https://aclanthology.org/2025.emnlp-main.1603/)
 
 ## Natural Language Inference
 
