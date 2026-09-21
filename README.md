@@ -166,6 +166,15 @@ Table of contents
 
 [![ACL](https://img.shields.io/badge/ACL%20Anthology-ed1c24.svg)](https://aclanthology.org/2025.findings-acl.659/)
 
+* [📄 Romanian Sentences 📄](https://huggingface.co/datasets/BlackKakapo/sentences-ro)
+>   Approximately 708 million Romanian sentence-level records, assembled by splitting
+>   existing public text datasets. Intended for masked language modeling and embedding pretraining.
+
+* [📚 Romanian Text Corpus 📚](https://huggingface.co/datasets/15juneee/romanian-corpus)
+>   Approximately 19.9 million Romanian documents assembled from existing sources including
+>   mC4, OSCAR and Wikipedia. Source licenses differ; check the dataset card and selected
+>   configuration before reuse, especially for commercial purposes.
+
 ## Semantic Textual Similarity / Paraphrasing
 
 * [🔗 RO-STS 🔗](https://huggingface.co/datasets/ro_sts)
@@ -188,6 +197,11 @@ Table of contents
 
 [![ACL](https://img.shields.io/badge/ACL%20Anthology-ed1c24.svg)](https://aclanthology.org/2020.lrec-1.848/)
 [![Homepage](https://img.shields.io/badge/cc-100%20homepage-6ca1f0)](https://zenodo.org/record/3707949)
+
+* [🔗 RoSTSC 🔗](https://huggingface.co/datasets/BlackKakapo/RoSTSC)
+>   Approximately 70,600 Romanian sentence pairs with semantic-similarity scores for
+>   training and evaluating sentence embeddings. Combines translated, existing Romanian
+>   and manually generated examples.
 
 ## Lexical Simplification / Complexity Prediction
 
@@ -392,6 +406,13 @@ Table of contents
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-datasets-yellow)](https://huggingface.co/datasets/RoMathExam/RoMathExam)
 
 
+* [🏆 Romanian Millionaire Questions 🏆](https://zenodo.org/records/21342994)
+>   Romanian question-answer data extracted from "Who Wants to Be a Millionaire?" videos,
+>   with original and translated JSON files available for download. Published in 2025;
+>   the linked public Zenodo deposit was created in July 2026.
+
+[![ACL](https://img.shields.io/badge/ACL%20Anthology-ed1c24.svg)](https://aclanthology.org/2025.ranlp-1.46/)
+
 ## Spelling, Dictionaries and Gramatical Errors
 
 * [✏️ Grammar-RO ✏️](https://huggingface.co/datasets/BlackKakapo/grammar-ro)
@@ -424,3 +445,8 @@ Table of contents
 > Dataset covers primarily under-represented speech groups (outside the 19–29 male category)
 
 [![MDPI](https://img.shields.io/badge/MDPI-Information-00813E.svg)](https://www.mdpi.com/2076-3417/14/19/9043)
+
+* [🎙️ Romanian Speech v2 🎙️](https://huggingface.co/datasets/eduardem/romanian-speech-v2)
+>   A Romanian multi-speaker audio-and-transcript dataset with approximately 247,000
+>   records for speech recognition and speech synthesis research. Research and educational
+>   use only; consult the dataset card for restrictions relating to the source audio.
