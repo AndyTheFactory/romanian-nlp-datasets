@@ -151,6 +151,20 @@ Table of contents
 * [🍳Romanian Cooking Recipes🍳](https://huggingface.co/datasets/BlackKakapo/recipes-ro)
 >  891 Cooking Recipes in Romanian Language
 
+* [🌐 FineWeb2-Ro 🌐](https://github.com/VladNegoita/FineWeb2-Ro)
+>   A large-scale Romanian pretraining corpus derived from web data through quality and diversity filtering,
+>   totalling billions of tokens. Public releases include fineweb2-ro-llm and fineweb2-ro-bert,
+>   providing large-scale corpora for training Romanian language models.
+
+[![ACL](https://img.shields.io/badge/ACL%20Anthology-ed1c24.svg)](https://aclanthology.org/2026.loreslm-1.13.pdf)
+[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-datasets-yellow)](https://huggingface.co/datasets/OpenLLM-Ro/fineweb2-ro-llm)
+
+* [🏛️ CROL 🏛️](https://github.com/craciuncg/GRAF)
+>   A temporally-aware Romanian legal corpus, part of the GRAF package (alongside JuRO and Law-RoG).
+>   Designed for legal reasoning and retrieval tasks, covering Romanian legislation with temporal metadata.
+
+[![ACL](https://img.shields.io/badge/ACL%20Anthology-ed1c24.svg)](https://aclanthology.org/2025.findings-acl.659/)
+
 ## Semantic Textual Similarity / Paraphrasing
 
 * [🔗 RO-STS 🔗](https://huggingface.co/datasets/ro_sts)
@@ -191,6 +205,14 @@ Table of contents
 >   Around ~72k Full texts and their summary. Source seems to be news websites.
 >   No description or explanation available
 
+* [📰 RoLargeSum 📰](https://github.com/avramandrei/rolargesum)
+>   A large-scale Romanian news dataset with 615k+ articles for summarization, headline generation,
+>   and keyword extraction. Includes rich metadata such as summaries, topics, and dialect labels
+>   distinguishing Romania vs Moldova text.
+
+[![ACL](https://img.shields.io/badge/ACL%20Anthology-ed1c24.svg)](https://aclanthology.org/2025.coling-main.140/)
+[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-datasets-yellow)](https://huggingface.co/datasets/avramandrei/rolargesum)
+
 ## Dialect and regional speech identification
 * [🗣️ RoDia 🗣️](https://github.com/codrut2/RoDia)
 > varied compilation of speech samples from five distinct regions of Romania, covering both urban and rural environments.
@@ -205,6 +227,13 @@ Table of contents
 > totaling over 32.000 labeled records
 
 [![arXiv](https://img.shields.io/badge/arXiv-1901.06543-f9f107.svg)](https://arxiv.org/abs/1901.06543)
+
+* [🗣️ MoRoVoc 🗣️](https://huggingface.co/datasets/avramandrei/morovoc)
+>   A speech dataset for Romanian dialect identification containing over 93 hours of audio and ~88k samples
+>   across Romania and Moldova. Captures intra-language variation rather than multilingual diversity,
+>   making it ideal for ASR robustness and dialect modeling.
+
+[![ACL](https://img.shields.io/badge/ACL%20Anthology-ed1c24.svg)](https://aclanthology.org/2025.findings-emnlp.653/)
 
   
 ## Named Entity Recognition (NER)
@@ -332,6 +361,27 @@ Table of contents
 [![ACL](https://img.shields.io/badge/ACL%20Anthology-ed1c24.svg)](https://aclanthology.org/2025.findings-acl.659/)
 
 
+* [🧬 RoBiologyDataChoiceQA 🧬](https://huggingface.co/datasets/RoLLMHub/RoBiologyDataChoiceQA)
+>   A domain-specific multiple-choice QA dataset with ~14k biology questions in Romanian,
+>   designed for evaluating and fine-tuning LLMs in educational contexts aligned with the national curriculum.
+
+[![ACL](https://img.shields.io/badge/ACL%20Anthology-ed1c24.svg)](https://aclanthology.org/2025.mrl-main.37/)
+
+* [🚗 RoD-TAL 🚗](https://github.com/vladman-25/RoD-TAL)
+>   A multimodal Romanian benchmark for driving-license exam reasoning, combining text, images, and legal references.
+>   Includes over 1,100 questions across tasks like QA, visual QA, and retrieval.
+
+[![ACL](https://img.shields.io/badge/ACL%20Anthology-ed1c24.svg)](https://aclanthology.org/2026.findings-eacl.295/)
+[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-datasets-yellow)](https://huggingface.co/datasets/unstpb-nlp/RoD-TAL)
+
+* [🧮 RoMathExam 🧮](https://github.com/badea-codrut-cti/proiect-ai-in-educatie)
+>   A longitudinal dataset of Romanian math exams spanning 1895–2025, with over 10k problems and 600+ exam sets.
+>   Supports educational AI, retrieval, and reasoning tasks with rare historical depth.
+
+[![arXiv](https://img.shields.io/badge/arXiv-2604.16392-f9f107.svg)](https://arxiv.org/abs/2604.16392)
+[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-datasets-yellow)](https://huggingface.co/datasets/RoMathExam/RoMathExam)
+
+
 ## Spelling, Dictionaries and Gramatical Errors
 
 * [✏️ Grammar-RO ✏️](https://huggingface.co/datasets/BlackKakapo/grammar-ro)
@@ -349,6 +399,12 @@ Table of contents
 > regarding lemma, morphosyntactic description, syllabification, lexical stress and phonemic transcription.
 
 [![Cambridge](https://img.shields.io/badge/Cambridge-Core-ef4135.svg)](https://adrianastan.com/papers/2022_NLE.pdf)
+
+* [⚖️ RoLegalGEC ⚖️](https://huggingface.co/datasets/MirceaT/RoLegalGEC)
+>   The first Romanian legal-domain grammatical error correction dataset with ~350k annotated sentence pairs.
+>   Enables research in correction, normalization, and document processing for Romanian legal text.
+
+[![arXiv](https://img.shields.io/badge/arXiv-2604.19593-f9f107.svg)](https://arxiv.org/abs/2604.19593)
 
 ## Automatic Speech Recognition
 
